@@ -1,0 +1,20 @@
+{
+  "name": "js-interview-questions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "commit": "cz"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
